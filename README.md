@@ -1,5 +1,5 @@
 # appium-uiautomator2-server-patched
-This is the patched binaries of appium-uiautomator2-server for the waitForIdle bug
+This is the patched binaries of appium-uiautomator2-server for the waitForIdle bug. Tested with `appium 1.7.2`
 
 ## Usage
 1. Uninstall original `uiautomator2`
